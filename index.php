@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <?php echo "testing";?>
+    <?php echo "testing";?>
+    <?php echo "testing";?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Stripe Payment</title>
